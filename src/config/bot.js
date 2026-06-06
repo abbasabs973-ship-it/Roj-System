@@ -25,9 +25,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "67676767676767676767676",
         // Activity type number (0 = Playing).
-        type: 0, 
+        type: 1, 
       },
     ],
   },
@@ -281,7 +281,7 @@ export const botConfig = {
     announcementChannel: null,
 
     // Timezone used to calculate birthday dates.
-    timezone: "UTC",
+    timezone: "GMT+3",
   },
 
   // =========================
